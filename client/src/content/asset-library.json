@@ -1,0 +1,662 @@
+[
+  {
+    "title": "Icon",
+    "filename": "solenne-icon.png",
+    "category": "01 \u00b7 Identity",
+    "sectionTitle": "01 \u00b7 Identity",
+    "alt": "SOLENNE icon visual",
+    "dimensions": "512 \u00d7 512",
+    "type": "PNG",
+    "storageUrl": "/manus-storage/solenne-icon_f0eea298.png"
+  },
+  {
+    "title": "Logo Ivory",
+    "filename": "solenne-logo-ivory.png",
+    "category": "01 \u00b7 Identity",
+    "sectionTitle": "01 \u00b7 Identity",
+    "alt": "SOLENNE logo ivory visual",
+    "dimensions": "1536 \u00d7 1024",
+    "type": "PNG",
+    "storageUrl": "/manus-storage/solenne-logo-ivory_cbefeff1.png"
+  },
+  {
+    "title": "Logo",
+    "filename": "solenne-logo.png",
+    "category": "01 \u00b7 Identity",
+    "sectionTitle": "01 \u00b7 Identity",
+    "alt": "SOLENNE logo visual",
+    "dimensions": "1536 \u00d7 1024",
+    "type": "PNG",
+    "storageUrl": "/manus-storage/solenne-logo_e3856447.png"
+  },
+  {
+    "title": "Logo",
+    "filename": "solenne-logo.svg",
+    "category": "01 \u00b7 Identity",
+    "sectionTitle": "01 \u00b7 Identity",
+    "alt": "SOLENNE logo visual",
+    "dimensions": "600 \u00d7 180",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/solenne-logo_d7c0a47f.svg"
+  },
+  {
+    "title": "Barrier Cream 50Ml Front",
+    "filename": "solenne-barrier-cream-50ml-front.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE barrier cream 50ml front visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-barrier-cream-50ml-front_9b4e9874.webp"
+  },
+  {
+    "title": "Botanical Face Oil 30Ml Front",
+    "filename": "solenne-botanical-face-oil-30ml-front.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE botanical face oil 30ml front visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-botanical-face-oil-30ml-front_08d17ad4.webp"
+  },
+  {
+    "title": "Gentle Cleanser 150Ml Front",
+    "filename": "solenne-gentle-cleanser-150ml-front.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE gentle cleanser 150ml front visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-gentle-cleanser-150ml-front_5cdbc0fa.webp"
+  },
+  {
+    "title": "Gentle Cleanser 250Ml Front",
+    "filename": "solenne-gentle-cleanser-250ml-front.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE gentle cleanser 250ml front visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-gentle-cleanser-250ml-front_837fec29.webp"
+  },
+  {
+    "title": "Hydrating Serum 30Ml Front",
+    "filename": "solenne-hydrating-serum-30ml-front.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE hydrating serum 30ml front visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-hydrating-serum-30ml-front_e847f69a.webp"
+  },
+  {
+    "title": "Hydrating Serum 50Ml Front",
+    "filename": "solenne-hydrating-serum-50ml-front.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE hydrating serum 50ml front visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-hydrating-serum-50ml-front_91aefa92.webp"
+  },
+  {
+    "title": "Barrier Cream 50Ml Angle",
+    "filename": "solenne-barrier-cream-50ml-angle.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE barrier cream 50ml angle visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-barrier-cream-50ml-angle_36a275fc.webp"
+  },
+  {
+    "title": "Botanical Face Oil 30Ml Angle",
+    "filename": "solenne-botanical-face-oil-30ml-angle.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE botanical face oil 30ml angle visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-botanical-face-oil-30ml-angle_cb651eaf.webp"
+  },
+  {
+    "title": "Gentle Cleanser 150Ml Angle",
+    "filename": "solenne-gentle-cleanser-150ml-angle.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE gentle cleanser 150ml angle visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-gentle-cleanser-150ml-angle_7af09a3b.webp"
+  },
+  {
+    "title": "Gentle Cleanser 250Ml Angle",
+    "filename": "solenne-gentle-cleanser-250ml-angle.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE gentle cleanser 250ml angle visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-gentle-cleanser-250ml-angle_0a3eb25a.webp"
+  },
+  {
+    "title": "Hydrating Serum 50Ml Angle",
+    "filename": "solenne-hydrating-serum-50ml-angle.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE hydrating serum 50ml angle visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-hydrating-serum-50ml-angle_ed12fbb6.webp"
+  },
+  {
+    "title": "Hydrating Serum Angle",
+    "filename": "solenne-hydrating-serum-angle.webp",
+    "category": "02 \u00b7 Products",
+    "sectionTitle": "02 \u00b7 Products",
+    "alt": "SOLENNE hydrating serum angle visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-hydrating-serum-angle_4b8061d4.webp"
+  },
+  {
+    "title": "Barrier Cream Texture",
+    "filename": "solenne-barrier-cream-texture.webp",
+    "category": "03 \u00b7 Textures",
+    "sectionTitle": "03 \u00b7 Textures",
+    "alt": "SOLENNE barrier cream texture visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-barrier-cream-texture_05896a66.webp"
+  },
+  {
+    "title": "Face Oil Texture",
+    "filename": "solenne-face-oil-texture.webp",
+    "category": "03 \u00b7 Textures",
+    "sectionTitle": "03 \u00b7 Textures",
+    "alt": "SOLENNE face oil texture visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-face-oil-texture_573e8177.webp"
+  },
+  {
+    "title": "Gentle Cleanser Texture",
+    "filename": "solenne-gentle-cleanser-texture.webp",
+    "category": "03 \u00b7 Textures",
+    "sectionTitle": "03 \u00b7 Textures",
+    "alt": "SOLENNE gentle cleanser texture visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-gentle-cleanser-texture_70af6316.webp"
+  },
+  {
+    "title": "Serum Texture Drop",
+    "filename": "solenne-serum-texture-drop.webp",
+    "category": "03 \u00b7 Textures",
+    "sectionTitle": "03 \u00b7 Textures",
+    "alt": "SOLENNE serum texture drop visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-serum-texture-drop_40e5b971.webp"
+  },
+  {
+    "title": "Cream In Use",
+    "filename": "solenne-cream-in-use.webp",
+    "category": "04 \u00b7 Lifestyle",
+    "sectionTitle": "04 \u00b7 Lifestyle",
+    "alt": "SOLENNE cream in use visual",
+    "dimensions": "1024 \u00d7 1536",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-cream-in-use_161a8023.webp"
+  },
+  {
+    "title": "Face Oil Evening",
+    "filename": "solenne-face-oil-evening.webp",
+    "category": "04 \u00b7 Lifestyle",
+    "sectionTitle": "04 \u00b7 Lifestyle",
+    "alt": "SOLENNE face oil evening visual",
+    "dimensions": "1024 \u00d7 1536",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-face-oil-evening_bec9c8a0.webp"
+  },
+  {
+    "title": "Routine Shelf",
+    "filename": "solenne-routine-shelf.webp",
+    "category": "04 \u00b7 Lifestyle",
+    "sectionTitle": "04 \u00b7 Lifestyle",
+    "alt": "SOLENNE routine shelf visual",
+    "dimensions": "1024 \u00d7 1536",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-routine-shelf_d5ce9e5d.webp"
+  },
+  {
+    "title": "Serum In Hand",
+    "filename": "solenne-serum-in-hand.webp",
+    "category": "04 \u00b7 Lifestyle",
+    "sectionTitle": "04 \u00b7 Lifestyle",
+    "alt": "SOLENNE serum in hand visual",
+    "dimensions": "1024 \u00d7 1536",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-serum-in-hand_1a2b40a8.webp"
+  },
+  {
+    "title": "Daily Routine Set Inside",
+    "filename": "solenne-daily-routine-set-inside.webp",
+    "category": "05 \u00b7 Bundles",
+    "sectionTitle": "05 \u00b7 Bundles",
+    "alt": "SOLENNE daily routine set inside visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-daily-routine-set-inside_ce37c1ad.webp"
+  },
+  {
+    "title": "Daily Routine Set",
+    "filename": "solenne-daily-routine-set.webp",
+    "category": "05 \u00b7 Bundles",
+    "sectionTitle": "05 \u00b7 Bundles",
+    "alt": "SOLENNE daily routine set visual",
+    "dimensions": "2048 \u00d7 2048",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-daily-routine-set_de353014.webp"
+  },
+  {
+    "title": "Icon Concern Dryness",
+    "filename": "icon-concern-dryness.svg",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE icon concern dryness visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-concern-dryness_8a9be767.svg"
+  },
+  {
+    "title": "Icon Concern Dullness",
+    "filename": "icon-concern-dullness.svg",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE icon concern dullness visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-concern-dullness_ce09e711.svg"
+  },
+  {
+    "title": "Icon Concern Sensitivity",
+    "filename": "icon-concern-sensitivity.svg",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE icon concern sensitivity visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-concern-sensitivity_a4f82fa4.svg"
+  },
+  {
+    "title": "Concern Dryness",
+    "filename": "solenne-concern-dryness.webp",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE concern dryness visual",
+    "dimensions": "1024 \u00d7 1280",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-concern-dryness_71503407.webp"
+  },
+  {
+    "title": "Concern Dullness",
+    "filename": "solenne-concern-dullness.webp",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE concern dullness visual",
+    "dimensions": "1024 \u00d7 1280",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-concern-dullness_c380719d.webp"
+  },
+  {
+    "title": "Concern Sensitivity",
+    "filename": "solenne-concern-sensitivity.webp",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE concern sensitivity visual",
+    "dimensions": "1024 \u00d7 1280",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-concern-sensitivity_3077c618.webp"
+  },
+  {
+    "title": "Hero Desktop",
+    "filename": "solenne-hero-desktop.webp",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE hero desktop visual",
+    "dimensions": "2560 \u00d7 1088",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-hero-desktop_43404e97.webp"
+  },
+  {
+    "title": "Hero Mobile",
+    "filename": "solenne-hero-mobile.webp",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE hero mobile visual",
+    "dimensions": "1088 \u00d7 1440",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-hero-mobile_8f283929.webp"
+  },
+  {
+    "title": "Newsletter Bg",
+    "filename": "solenne-newsletter-bg.webp",
+    "category": "06 \u00b7 Homepage",
+    "sectionTitle": "06 \u00b7 Homepage",
+    "alt": "SOLENNE newsletter bg visual",
+    "dimensions": "2400 \u00d7 800",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-newsletter-bg_5f1ba0c3.webp"
+  },
+  {
+    "title": "Collection Best Sellers",
+    "filename": "solenne-collection-best-sellers.webp",
+    "category": "07 \u00b7 Collections",
+    "sectionTitle": "07 \u00b7 Collections",
+    "alt": "SOLENNE collection best sellers visual",
+    "dimensions": "2400 \u00d7 800",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-collection-best-sellers_aea9f3d2.webp"
+  },
+  {
+    "title": "Collection Cleansers",
+    "filename": "solenne-collection-cleansers.webp",
+    "category": "07 \u00b7 Collections",
+    "sectionTitle": "07 \u00b7 Collections",
+    "alt": "SOLENNE collection cleansers visual",
+    "dimensions": "2400 \u00d7 800",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-collection-cleansers_aeef2d31.webp"
+  },
+  {
+    "title": "Collection Dryness",
+    "filename": "solenne-collection-dryness.webp",
+    "category": "07 \u00b7 Collections",
+    "sectionTitle": "07 \u00b7 Collections",
+    "alt": "SOLENNE collection dryness visual",
+    "dimensions": "2400 \u00d7 800",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-collection-dryness_5c1e7a97.webp"
+  },
+  {
+    "title": "Collection Dullness",
+    "filename": "solenne-collection-dullness.webp",
+    "category": "07 \u00b7 Collections",
+    "sectionTitle": "07 \u00b7 Collections",
+    "alt": "SOLENNE collection dullness visual",
+    "dimensions": "2400 \u00d7 800",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-collection-dullness_c6a2f8a2.webp"
+  },
+  {
+    "title": "Collection Moisturizers",
+    "filename": "solenne-collection-moisturizers.webp",
+    "category": "07 \u00b7 Collections",
+    "sectionTitle": "07 \u00b7 Collections",
+    "alt": "SOLENNE collection moisturizers visual",
+    "dimensions": "2400 \u00d7 800",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-collection-moisturizers_203e454e.webp"
+  },
+  {
+    "title": "Collection Sensitivity",
+    "filename": "solenne-collection-sensitivity.webp",
+    "category": "07 \u00b7 Collections",
+    "sectionTitle": "07 \u00b7 Collections",
+    "alt": "SOLENNE collection sensitivity visual",
+    "dimensions": "2400 \u00d7 800",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-collection-sensitivity_74318f30.webp"
+  },
+  {
+    "title": "Collection Serums Oils",
+    "filename": "solenne-collection-serums-oils.webp",
+    "category": "07 \u00b7 Collections",
+    "sectionTitle": "07 \u00b7 Collections",
+    "alt": "SOLENNE collection serums oils visual",
+    "dimensions": "2400 \u00d7 800",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-collection-serums-oils_3fc560e0.webp"
+  },
+  {
+    "title": "Ingredient Centella",
+    "filename": "solenne-ingredient-centella.webp",
+    "category": "08 \u00b7 Ingredients",
+    "sectionTitle": "08 \u00b7 Ingredients",
+    "alt": "SOLENNE ingredient centella visual",
+    "dimensions": "1024 \u00d7 1024",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-ingredient-centella_003d2931.webp"
+  },
+  {
+    "title": "Ingredient Oat",
+    "filename": "solenne-ingredient-oat.webp",
+    "category": "08 \u00b7 Ingredients",
+    "sectionTitle": "08 \u00b7 Ingredients",
+    "alt": "SOLENNE ingredient oat visual",
+    "dimensions": "1024 \u00d7 1024",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-ingredient-oat_1d407452.webp"
+  },
+  {
+    "title": "Ingredient Rosehip",
+    "filename": "solenne-ingredient-rosehip.webp",
+    "category": "08 \u00b7 Ingredients",
+    "sectionTitle": "08 \u00b7 Ingredients",
+    "alt": "SOLENNE ingredient rosehip visual",
+    "dimensions": "1024 \u00d7 1024",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-ingredient-rosehip_ed2c4568.webp"
+  },
+  {
+    "title": "Ingredient Squalane",
+    "filename": "solenne-ingredient-squalane.webp",
+    "category": "08 \u00b7 Ingredients",
+    "sectionTitle": "08 \u00b7 Ingredients",
+    "alt": "SOLENNE ingredient squalane visual",
+    "dimensions": "1024 \u00d7 1024",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-ingredient-squalane_3c08d997.webp"
+  },
+  {
+    "title": "About Hero",
+    "filename": "solenne-about-hero.webp",
+    "category": "09 \u00b7 About",
+    "sectionTitle": "09 \u00b7 About",
+    "alt": "SOLENNE about hero visual",
+    "dimensions": "2560 \u00d7 1088",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-about-hero_72494aaa.webp"
+  },
+  {
+    "title": "About Process",
+    "filename": "solenne-about-process.webp",
+    "category": "09 \u00b7 About",
+    "sectionTitle": "09 \u00b7 About",
+    "alt": "SOLENNE about process visual",
+    "dimensions": "1536 \u00d7 1024",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-about-process_195c3eb1.webp"
+  },
+  {
+    "title": "404",
+    "filename": "solenne-404.webp",
+    "category": "10 \u00b7 Marketing",
+    "sectionTitle": "10 \u00b7 Marketing",
+    "alt": "SOLENNE 404 visual",
+    "dimensions": "1536 \u00d7 1024",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-404_cd7c5bf1.webp"
+  },
+  {
+    "title": "Loom Thumbnail",
+    "filename": "solenne-loom-thumbnail.png",
+    "category": "10 \u00b7 Marketing",
+    "sectionTitle": "10 \u00b7 Marketing",
+    "alt": "SOLENNE loom thumbnail visual",
+    "dimensions": "1536 \u00d7 864",
+    "type": "PNG",
+    "storageUrl": "/manus-storage/solenne-loom-thumbnail_5ccb1f52.png"
+  },
+  {
+    "title": "Mockup Cover",
+    "filename": "solenne-mockup-cover.webp",
+    "category": "10 \u00b7 Marketing",
+    "sectionTitle": "10 \u00b7 Marketing",
+    "alt": "SOLENNE mockup cover visual",
+    "dimensions": "2048 \u00d7 1152",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-mockup-cover_6c3b0920.webp"
+  },
+  {
+    "title": "Social Share",
+    "filename": "solenne-social-share.jpg",
+    "category": "10 \u00b7 Marketing",
+    "sectionTitle": "10 \u00b7 Marketing",
+    "alt": "SOLENNE social share visual",
+    "dimensions": "1200 \u00d7 630",
+    "type": "JPG",
+    "storageUrl": "/manus-storage/solenne-social-share_92bc4b6c.jpg"
+  },
+  {
+    "title": "Style Tile",
+    "filename": "solenne-style-tile.webp",
+    "category": "10 \u00b7 Marketing",
+    "sectionTitle": "10 \u00b7 Marketing",
+    "alt": "SOLENNE style tile visual",
+    "dimensions": "1536 \u00d7 1024",
+    "type": "WEBP",
+    "storageUrl": "/manus-storage/solenne-style-tile_ec8bb063.webp"
+  },
+  {
+    "title": "Icon Email",
+    "filename": "icon-email.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon email visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-email_cbe46f57.svg"
+  },
+  {
+    "title": "Icon Leaf",
+    "filename": "icon-leaf.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon leaf visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-leaf_7bedb08f.svg"
+  },
+  {
+    "title": "Icon No Animal Testing",
+    "filename": "icon-no-animal-testing.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon no animal testing visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-no-animal-testing_ea38c184.svg"
+  },
+  {
+    "title": "Icon Recyclable Glass",
+    "filename": "icon-recyclable-glass.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon recyclable glass visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-recyclable-glass_293214f8.svg"
+  },
+  {
+    "title": "Icon Returns",
+    "filename": "icon-returns.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon returns visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-returns_6920f6af.svg"
+  },
+  {
+    "title": "Icon Secure Checkout",
+    "filename": "icon-secure-checkout.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon secure checkout visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-secure-checkout_7dd1b01b.svg"
+  },
+  {
+    "title": "Icon Shipping",
+    "filename": "icon-shipping.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon shipping visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-shipping_bf0188a1.svg"
+  },
+  {
+    "title": "Icon Step Cleanse",
+    "filename": "icon-step-cleanse.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon step cleanse visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-step-cleanse_cea9967f.svg"
+  },
+  {
+    "title": "Icon Step Moisturize",
+    "filename": "icon-step-moisturize.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon step moisturize visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-step-moisturize_dce563c3.svg"
+  },
+  {
+    "title": "Icon Step Nourish",
+    "filename": "icon-step-nourish.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon step nourish visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-step-nourish_8e99eca0.svg"
+  },
+  {
+    "title": "Icon Step Treat",
+    "filename": "icon-step-treat.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE icon step treat visual",
+    "dimensions": "24 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/icon-step-treat_529234c6.svg"
+  },
+  {
+    "title": "Divider",
+    "filename": "solenne-divider.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE divider visual",
+    "dimensions": "240 \u00d7 24",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/solenne-divider_20ccf339.svg"
+  },
+  {
+    "title": "Pattern",
+    "filename": "solenne-pattern.svg",
+    "category": "11 \u00b7 SVG system",
+    "sectionTitle": "11 \u00b7 SVG system",
+    "alt": "SOLENNE pattern visual",
+    "dimensions": "120 \u00d7 120",
+    "type": "SVG",
+    "storageUrl": "/manus-storage/solenne-pattern_563385dc.svg"
+  }
+]
